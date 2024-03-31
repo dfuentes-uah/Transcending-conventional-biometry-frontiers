@@ -4,7 +4,7 @@ In the first half of the 20th century, a first pulse oximeter was available to m
 
 # Working Conditions
 This code runs on Tensorflow 2.0
-# Train
+# Train / Test
 To train and test the system it is necessary to download the associated database and pretrained models from the following URL:
 
 https://kaggle.com/datasets/c0e959f62d846c46f0001ece57aad55b519da03d0431a0ab5cc5d12fe6eb92a2
